@@ -1,6 +1,6 @@
 # Study project for the article "Client-Side Rendering in Flame Graphs"
 
-Article: [Client-Side Rendering in Flame Graphs](http://developerway.com/posts/initial-load-performance)
+Article: [Client-Side Rendering in Flame Graphs](http://developerway.com/posts/client-side-rendering-flame-graph)
 
 ## How to run the project
 
